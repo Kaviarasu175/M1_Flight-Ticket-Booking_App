@@ -9,6 +9,7 @@
 ![github learning](https://user-images.githubusercontent.com/99003331/152697011-9806f9e5-0b55-4759-9367-a9657c8587cd.png)
 
 ## HACKEREARTH
-![Hacker Earth](https://user-images.githubusercontent.com/99003331/152696926-85cc8e3b-412d-40b3-b509-6b8eab7f6f32.png)
+![HACKER EARTH](https://user-images.githubusercontent.com/99003331/152699648-92223951-3086-432f-af2c-43cc240a2a4b.png)
+
 
 ##
