@@ -1,5 +1,6 @@
 ## SOLOLEARN
-![WhatsApp Image 2022-02-07 at 12 01 55 AM](https://user-images.githubusercontent.com/99003331/152695923-39ae3479-0446-4570-aac7-b49eda9f5cac.jpeg)
+![sololearn](https://user-images.githubusercontent.com/99003331/152698830-3bd3a1a0-2623-4fe2-9360-dc293a5067c9.jpeg)
+
 
 ## CISCO
 ![cisco NDG](https://user-images.githubusercontent.com/99003331/152696810-1c20f5a8-4455-4a5a-a2a0-8afad69ee004.jpeg)
