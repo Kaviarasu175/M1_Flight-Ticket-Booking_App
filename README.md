@@ -1,2 +1,2 @@
-# M1_Project-Goal_App
+# M1_Flight-Ticket-Booking_App
 Mini Project
