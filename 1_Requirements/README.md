@@ -55,4 +55,4 @@
    
    THREADS:
    
-   Government legislation can also be a major threat to investors in the aviation industry.It has the sesaonal demand 
+   Government legislation can also be a major threat to investors in the aviation industry.It has the sesaonal demand especially where the largest percentage of travelers.Air travel is ver vulnerable to environmental changes.
