@@ -24,15 +24,16 @@
    
 ## SWOT ANALYSIS
    STRENGTHEN:
-     1.Convenience
+   
+   1.Convenience
      
-     2.prices
+   2.prices
      
-     3.changes and cancellation
+   3.changes and cancellation
      
-     4.faster acccess to security
+   4.faster acccess to security
      
-     5.Better seat selection
+   5.Better seat selection
     
    WEAKNESS:
      
