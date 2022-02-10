@@ -1,4 +1,4 @@
 ## INTRODUCTION 
 
- Flight Ticketing System is a concept in airline reservation software systems that are needed to manage air ticket booking, e-ticketing, scheduling flights, and delivery of necessary information to the end-user. 
-   
+ The Online Flight Booking System is a project that will help the airline ticket booking business provides its clients with an easy way and automated processing system online. This project has 2 sides of user's restriction, which are the admin and the client/website visitor. The admin will store all flight schedules into the system along with the airline information and flight details and with this data will be filtered according to the client's desired schedule to book to the website. The client will browse the airline ticketing website and find his/her desired schedule for booking and also they can also decide which airlines they want to be booked. Flight Ticketing System is a concept in airline reservation software systems that are needed to manage air ticket booking, e-ticketing, scheduling flights, and delivery of necessary information to the end-user. 
+  
