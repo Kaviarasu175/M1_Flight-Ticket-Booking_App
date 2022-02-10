@@ -10,9 +10,13 @@
   .It Provides every information about flight.
   
   .24/7 customer support through chat and calls.
+  
   .Mobile Availability.
+  
   .It Send automated tickets to the customer by mail.
+  
   .Easy Refund Policies.
+  
   .Available for both Domestic and International Airlines.
 
 ## ANALYSES
@@ -21,9 +25,13 @@
 ## SWOT ANALYSIS
    STRENGTHEN:
      1.Convenience
+     
      2.prices
+     
      3.changes and cancellation
+     
      4.faster acccess to security
+     
      5.Better seat selection
     
    WEAKNESS:
