@@ -27,7 +27,7 @@
    
    1.Convenience
      
-   2.prices
+   2.safety and speed
      
    3.changes and cancellation
      
@@ -36,4 +36,23 @@
    5.Better seat selection
     
    WEAKNESS:
-     
+   
+   1.weak infrastructure
+   
+   2.high cancellation rate
+   
+   3.high barriers to entry
+    
+   OPPORYUNITY:
+   
+   1.opperations agent
+   
+   2.flight dispatcher
+   
+   3.regional sales manager
+   
+   4.Technological advancement and investment.
+   
+   THREADS:
+   
+   Government legislation can also be a major threat to investors in the aviation industry.It has the sesaonal demand 
