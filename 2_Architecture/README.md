@@ -2,6 +2,6 @@
 
 ## BEHAVIORAL
 
-USE CASE
+Usecase Diagram
 
-FLOW CHART
+Flowchart
