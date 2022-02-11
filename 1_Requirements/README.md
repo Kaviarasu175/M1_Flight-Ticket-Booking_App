@@ -78,3 +78,14 @@ Queries in the parts at the drop point.
 How:
 
 Any manual wrong entry of the data by the person who is managing the airline booking will create a lot of confusion among the airline management and passengers might not get seats even if there was an empty seats.
+
+-- ID	Description	Status (Implemented/Future)
+HLR1	admin can add train	Implemented
+HLR2	User can book train	Implemented
+HLR3	User shall view information of booked tickets	Implemented
+HLR4	admin can view the booked tickets	Implemented
+Low level Requirements:
+-- ID	Description	Status (Implemented/Future)
+LLR1	admin can add train	Implemented
+LLR2	admin can search information	Implemented
+
