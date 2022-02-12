@@ -1,6 +1,8 @@
 #ifndef FUNC_H_INCLUDED
 #define FUNC_H_INCLUDED
-void booking();
+void Reservation();
 void availability();
 void cancel();
+void status();
+void menu();
 #endif
