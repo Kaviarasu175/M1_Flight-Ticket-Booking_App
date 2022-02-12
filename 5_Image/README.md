@@ -16,6 +16,8 @@
 
 ## FLIGHT STATUS
 
+![flight status](https://user-images.githubusercontent.com/99003331/153708089-05982ef2-bcfa-4063-b513-521c1f4f5412.png)
+
 
 
 
