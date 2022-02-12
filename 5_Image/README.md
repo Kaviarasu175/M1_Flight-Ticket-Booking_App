@@ -12,10 +12,11 @@
 
 ## TICKET CANCELLATION
 
+![ticket cancellation](https://user-images.githubusercontent.com/99003331/153708048-caee137a-44e5-410a-ae87-dda66814aafd.png)
+
+## FLIGHT STATUS
 
 
-
-# FLIGHT STATUS
 
 
 
