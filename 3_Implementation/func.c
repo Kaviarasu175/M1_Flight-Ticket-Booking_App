@@ -56,9 +56,12 @@ menu();
 void availability()
 {
 int c;
-printf("availability cheking");
-printf("\n1.first class\n2.second class\n3.thired class\n");
-printf("enter the option");
+
+     printf("\n===============================================");
+    printf("\n1.AIR INDIAN AIRLINES(8:30pm-10pm)\n");
+    printf("\n");
+    printf("2.INDIGO AIRLINES(12.30am-2.30pm-4.30pm-2pm-11pm)\n");
+    printf("\n===============================================");
 scanf("%d",&c);
 switch(c)
 {
