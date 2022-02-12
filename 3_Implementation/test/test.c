@@ -11,7 +11,6 @@ void tearDown()
 }
 void test_Reservation()
 {
-    int d;
     int c=2;
     TEST_ASSERT_EQUAL(1,Reservation(c));
     
