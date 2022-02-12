@@ -77,4 +77,23 @@ Queries in the parts at the drop point.
 
 How:
 
-Any manual wrong entry of the data by the person who is managing the airline booking will create a lot of confusion among the airline management and passengers might not get seats even if there was an empty seats.
+Any manual wrong entry of the data by the person who is managing the airline booking will create a lot of confusion among the airline management and passengers might not get seats even if there was an empty seats.Implementation is done using c .
+
+
+# Detail Requirement
+
+## High Level Requirements
+
+-- ID | Description | Status (Implemented/Future)
+----- | ------------|---------------------------
+HLR1| user can see flight status | Implemented
+HLR2| User can reserve flight| Implemented
+HLR3| User can view ticket details| Implemented
+HLR4| User can cancel tickets| Implemented
+
+## Low Level Requirements
+
+-- ID | Description | Status (Implemented/Future)
+----- | ------------|---------------------------
+LLR1| admin can add flight  | Implemented
+LLR2| admin can book or cancel ticket | Implemented
