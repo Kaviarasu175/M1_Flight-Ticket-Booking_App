@@ -11,6 +11,10 @@ Mini Project
 
 [![cpp](https://github.com/Kaviarasu175/M1_Flight-Ticket-Booking_App/actions/workflows/c-cpp2.yml/badge.svg)](https://github.com/Kaviarasu175/M1_Flight-Ticket-Booking_App/actions/workflows/c-cpp2.yml)
 
+## Unit test
+
+[![UnitTesting](https://github.com/Kaviarasu175/M1_Flight-Ticket-Booking_App/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Kaviarasu175/M1_Flight-Ticket-Booking_App/actions/workflows/c-cpp.yml)
+
  ## Folder Structure
  
 Folder             | Description
